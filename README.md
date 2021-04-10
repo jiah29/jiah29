@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiah29
 - 👀 I’m interested in artificial intelligence, machine learning, cognitive science, ethics of technology & learning more about social issues
 - 🌱 I’m currently a first year computer science student at University of Toronto
-- 📫 How to reach me: my email is jiahao <dot> choo <at> mail <dot> utoronto <dot> ca
+- 📫 How to reach me: my email is jiahao.choo@mail.utoronto.ca
 
 <!---
 jiah29/jiah29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
