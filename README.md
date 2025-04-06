@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiah29
 - 👀 I’m interested in artificial intelligence, machine learning, cognitive science, geography, ethics of technology & learning more about social issues
-- 🌱 I’m currently a third year computer science student at University of Toronto
+- 🌱 I’m currently a computer science and gis graduate at University of Toronto
 - 📫 How to reach me: my email is jiahao.choo@mail.utoronto.ca
 
 <!---
