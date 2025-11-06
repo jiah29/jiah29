@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiah29
-- 👀 I’m interested in software dvelopment, geography, ai, ethics of technology & learning more about social issues
-- 🌱 I’m currently a computer science and gis graduate at University of Toronto
+- 👀 I’m interested in software development, geography, ethics of technology & learning more about social issues
+- 🌱 I’m a computer science and GIS graduate at University of Toronto
 - 📫 How to reach me: my email is jiahaochoo2002@gmail.com
 
 <!---
