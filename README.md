@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jiah29
 - 👀 I’m interested in software development, geography, ethics of technology & learning more about social issues
 - 🌱 I’m a computer science and GIS graduate at University of Toronto
-- 📫 How to reach me: my email is jiahaochoo2002@gmail.com
+- 🖥️ I'm currently working as a Full Stack Software Engineer
+- 📫 How to reach me: my email is jiahaochoo2002@gmail.com, and my linkedin is https://www.linkedin.com/in/jiahaochoo/
 
 <!---
 jiah29/jiah29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
