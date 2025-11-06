@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiah29
-- 👀 I’m interested in software development, geography, ethics of technology & learning more about social issues
-- 🌱 I’m a computer science and GIS graduate at University of Toronto
-- 🖥️ I'm currently working as a Full Stack Software Engineer
+- 🎓 I’m a computer science and GIS graduate at University of Toronto
+- 🖥️ I'm currently working as a Full Stack Software Engineer at a PropTech, GIS Software company
+- 🌟 Broadly speaking, my interest is in the intersection of computer science and geography
 - 📫 How to reach me: my email is jiahaochoo2002@gmail.com, and my linkedin is https://www.linkedin.com/in/jiahaochoo/
 
 <!---
