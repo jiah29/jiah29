@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiah29
 - 🎓 I’m a computer science and GIS graduate at University of Toronto
 - 🖥️ I'm currently working as a Full Stack Software Developer at a PropTech, GIS Software company
-- 🌟 Broadly speaking, my interest is in the intersection of computer science and geography
+- 🌟 Broadly speaking, my interests are in the fields of computer science and geography
 - 📫 How to reach me: my email is jiahaochoo2002@gmail.com, and my linkedin is https://www.linkedin.com/in/jiahaochoo/
 
 <!---
